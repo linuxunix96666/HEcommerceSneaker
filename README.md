@@ -8,4 +8,6 @@ This is a Ecommerce Application Developed in Spring Boot, Eclipse, Maven, Mysql 
 # Java 
 # Maven 
 # Mysql 
+You need to create your own mysql database and add it to the application.properties file and save it.
+
 # Thymeleaf
